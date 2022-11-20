@@ -15,3 +15,4 @@ console.log(typeof null);
 console.log(NaN ** 2); //NaN
 //5
 console.log(0 || (1 && 2) || 3);
+console.log(typeof {});

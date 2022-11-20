@@ -5,6 +5,9 @@
 //5-Js-da "typeof" dan qanday foydalanish kerak?
 //6-Qaysi operator  1 ta raqamga qo'shadi?
 //7-** operatori nima qiladi?
+//8- {}-buning turi qanday?
+//9- trim() ni vazifasi nma?
+//10- eval() ni vazifasi nma?
 
 ///Javoblari
 //1 J:sNan  berilgan qiymatning sonli yoki yo'qligini tekshirish uchun ishlatiladi.
@@ -14,3 +17,6 @@
 //5 J:typeof - bu o'zgaruvchining turini tavsifini qaytarish uchun ishlatiladigan operator.
 //6 J: ++
 //7 J: darajaga owiradi
+//8 J:objekt
+//9 J:trim() bu satrning boshi va oxiridagi bo'shliq belgilarini olib tashlash uchun ishlatiladigan string usuli.
+//10 J:string turidagi numberlarda arfimetk amallarni bajaradi! [ + - / *  ]
